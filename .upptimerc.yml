@@ -5,7 +5,7 @@ sites:
   - name: 1 à 10
     url: https://1a10.app
   - name: 1 à 10 API
-    url: https://api.1a10.app/api
+    url: https://api.1a10.app/api/health
   - name: Cryptoping
     url: https://cryptoping.cleverapps.io
   - name: Engraver
@@ -17,7 +17,7 @@ sites:
   - name: Setlist app
     url: https://app.setlist.live
   - name: Setlist API
-    url: https://api.setlist.live
+    url: https://api.setlist.live/health
   - name: Swunitch
     url: https://convertisseur-temps-course.tiste.io
   - name: Swunitch API
