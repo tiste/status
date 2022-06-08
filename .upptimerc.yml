@@ -6,8 +6,8 @@ sites:
     url: https://1a10.app
   - name: 1 à 10 API
     url: https://api.1a10.app/api/health
-  - name: Cryptoping
-    url: https://cryptoping.cleverapps.io
+  - name: cronping
+    url: https://cronping.tiste.io
   - name: Engraver
     url: https://engraver.tiste.io
   - name: Hey Be See
